@@ -435,41 +435,81 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 480 */
 @media screen and (max-width: 480px) {
-  .main__img--card {
-    width: 250px;
-    height: 250px;
-  }
 
-  .fa-users,
-  .fa-layer-group {
-    font-size: 4rem;
-  }
-
-  .main__content h1 {
-    font-size: 2rem;
-    margin-top: 3rem;
-  }
-  .main__content h2 {
-    font-size: 2rem;
-  }
-
-  .main__content p {
-    margin-top: 2rem;
-  }
-
-  .main__btn {
-    padding: 12px 36px;
-    margin: 2.5rem 0;
-  }
-}
-
-
-
-
-@media screen and (max-width: 480px) {
   .footer__link--items {
     margin: 0;
     padding: 10px;
     width: 100%;
   }
+
+}
+/* 480 */
+
+
+
+
+
+
+/* 768 */
+@media screen and (max-width: 768px) {
+
+}
+/* 768 */
+
+
+
+
+
+/* 820 */
+@media screen and (max-width: 820px) {
+
+}
+/* 820 */
+
+
+
+
+
+/* 960 */
+@media screen and (max-width: 960px) {
+
+}
+/* 960 */
+
+
+
+
+
+/* 1100 */
+@media screen and (max-width: 1100px) {
+
+}
+/* 1100 */
+
+
+
+
+
+
+/* 1300 */
+@media screen and (max-width: 1300px) {
+
+}
+/* 1300 */
